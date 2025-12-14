@@ -1,5 +1,3 @@
-## Hi there 👋# 💫 About Me:
-# 💫 About Me:
 # Hi, I'm Tushar
 
 BSc Computer Science student from Mumbai, focused on learning backend and web development with Python and Flask.
@@ -30,25 +28,5 @@ BSc Computer Science student from Mumbai, focused on learning backend and web de
 
 ## Connect
 
-- Email: dubetushar149@gmail.com
+- Email: [dubetushar149@gmail.com](mailto:dubetushar149@gmail.com)
 - LinkedIn: (add your link here)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**TusharQ15/TusharQ15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
