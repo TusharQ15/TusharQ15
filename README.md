@@ -1,20 +1,38 @@
 ## Hi there 👋# 💫 About Me:
 # 💫 About Me:
-"Learning Python and web development fundamentals"# Hi, I'm Tushar<br><br>BSc Computer Science student from Mumbai, learning backend and web development with Python and Flask.## What I'm working on<br><br>- Building **Tiffin Tracker** – a web app to help local tiffin services manage daily orders (Python, Flask, SQLite).<br>- Practicing **DSA and problem solving** in Python.<br>- Learning how to deploy small apps using simple cloud platforms (Railway / Render / Vercel).      ## Tech I actually use<br><br>- Languages: Python, HTML, CSS<br>- Backend: Flask<br>- Database: SQLite<br>- Tools: Git, GitHub, VS Code / PyCharm<br>        ## Projects<br><br>- [Tiffin Tracker](https://github.com/TusharQ15/Tiffin-tracker)  <br>  Small web app for tracking daily tiffin orders for a local tiffin service (forms, admin view, SQLite DB).<br><br>- (Future) [DSA Practice](#)  <br>  Collection of data structure and algorithm problems solved in Python.<br><br>- (Future) [Automation Scripts](#)  <br>  Scripts to automate small tasks (file organization, simple reports, etc.).                                               ## Connect<br><br>- Email: your-email<br>- LinkedIn: your-link<br>- GitHub: you're already here 🙂<br>                <br><br>
+# Hi, I'm Tushar
 
+BSc Computer Science student from Mumbai, focused on learning backend and web development with Python and Flask.
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dubetushar149@gmail.com) 
+## What I'm working on
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TusharQ15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TusharQ15&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharQ15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- Building **Tiffin Tracker** – a web app to help local tiffin services manage daily orders (Python, Flask, SQLite).
+- Practicing **DSA and problem solving** in Python.
+- Learning how to deploy small apps using simple cloud platforms (Railway / Render / Vercel).
 
----
-[![](https://visitcount.itsvg.in/api?id=TusharQ15&icon=0&color=0)](https://visitcount.itsvg.in)
+## Tech I actually use
+
+- Languages: Python, HTML, CSS
+- Backend: Flask
+- Database: SQLite
+- Tools: Git, GitHub, VS Code / PyCharm
+
+## Projects
+
+- [Tiffin Tracker](https://github.com/TusharQ15/Tiffin-tracker)  
+  Small web app for tracking daily tiffin orders for a local tiffin service (forms, admin view, SQLite DB).
+
+- (Planned) DSA Practice  
+  Collection of data structure and algorithm problems solved in Python.
+
+- (Planned) Automation Scripts  
+  Scripts to automate small tasks (file organization, simple reports, etc.).
+
+## Connect
+
+- Email: dubetushar149@gmail.com
+- LinkedIn: (add your link here)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
