@@ -1,6 +1,6 @@
 # Hi, I'm Tushar
 
-BSc Computer Science student from Mumbai, focused on learning backend and web development with Python and Flask.
+BSc Computer Science student, focused on learning backend and web development with Python and Flask.
 
 ## What I'm working on
 
