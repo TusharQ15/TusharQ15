@@ -33,8 +33,6 @@
 ### 🚀 Projects
 
 - 🍱 **[Tiffin Tracker](https://github.com/TusharQ15/Tiffin-tracker)**: A web app designed to help local tiffin services manage daily orders efficiently. Features custom forms, an admin dashboard, and robust data storage in SQLite.
-- 🤖 **[AI Use Case](https://github.com/TusharQ15/First-repo)**: Exploring the fundamentals of Artificial Intelligence integrations.
-- 🧠 **100 Days of DSA**: Actively practicing advanced data structures and algorithms in Python. *(Coming directly to my repos soon)*
 
 ---
 
