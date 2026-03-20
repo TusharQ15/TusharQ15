@@ -1,32 +1,56 @@
-# Hi, I'm Tushar
+<h1 align="center">Hi there, I'm Tushar! 👋</h1>
+<h3 align="center">BSc Computer Science Student from Mumbai | Backend & Web Developer</h3>
 
-BSc Computer Science student, focused on learning backend and web development with Python and Flask.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TusharQ15&label=Profile%20views&color=0e75b6&style=flat" alt="TusharQ15" />
+</p>
 
-## What I'm working on
+---
 
-- Building **Tiffin Tracker** – a web app to help local tiffin services manage daily orders (Python, Flask, SQLite).
-- Practicing **DSA and problem solving** in Python.
-- Learning how to deploy small apps using simple cloud platforms (Railway / Render / Vercel).
+### 👨‍💻 About Me
 
-## Tech I actually use
+- 🎓 Currently studying **BSc Computer Science** in Mumbai.
+- 💻 Passionate about **Backend Development, Web Apps**, and **Problem Solving** (DSA).
+- 🐍 Actively coding in **Python, HTML/CSS**, and building with **Flask & SQLite**.
+- ☁️ Learning deployment on cloud platforms like Render, Railway, and Vercel.
+- 🚀 Exploring AI Use Cases and expanding my full-stack capabilities.
 
-- Languages: Python, HTML, CSS
-- Backend: Flask
-- Database: SQLite
-- Tools: Git, GitHub, VS Code / PyCharm
+---
 
-## Projects
+### 🛠️ Tech Stack & Tools
 
-- [Tiffin Tracker](https://github.com/TusharQ15/Tiffin-tracker)  
-  Small web app for tracking daily tiffin orders for a local tiffin service (forms, admin view, SQLite DB).
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-- (Planned) DSA Practice  
-  Collection of data structure and algorithm problems solved in Python.
+---
 
-- (Planned) Automation Scripts  
-  Scripts to automate small tasks (file organization, simple reports, etc.).
+### 🚀 Projects
 
-## Connect
+- 🍱 **[Tiffin Tracker](https://github.com/TusharQ15/Tiffin-tracker)**: A web app designed to help local tiffin services manage daily orders efficiently. Features custom forms, an admin dashboard, and robust data storage in SQLite.
+- 🤖 **[AI Use Case](https://github.com/TusharQ15/First-repo)**: Exploring the fundamentals of Artificial Intelligence integrations.
+- 🧠 **100 Days of DSA**: Actively practicing advanced data structures and algorithms in Python. *(Coming directly to my repos soon)*
 
-- Email: [dubetushar149@gmail.com](mailto:dubetushar149@gmail.com)
-- LinkedIn: (add your link here)
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TusharQ15&show_icons=true&theme=radical&hide_border=true" alt="TusharQ15's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharQ15&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+- 📧 Email me at: [dubetushar149@gmail.com](mailto:dubetushar149@gmail.com)
+- 💼 LinkedIn: [*(Add your LinkedIn profile link here!)*](#)
+
+<br/>
+<p align="center"><i>Constantly learning, building, and pushing code!</i></p>
