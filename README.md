@@ -36,15 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TusharQ15&show_icons=true&theme=radical&hide_border=true" alt="TusharQ15's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharQ15&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 
 - 📧 Email me at: [dubetushar149@gmail.com](mailto:dubetushar149@gmail.com)
